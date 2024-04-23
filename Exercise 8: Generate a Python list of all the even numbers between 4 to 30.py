@@ -15,5 +15,5 @@ def main():
         start = int(input("Enter starting number of the list: "))
         end = int(input("Enter ending number of the list: "))
         generateList(start,end)
-
+        #print(list(range(4,30,2)))
 main()
